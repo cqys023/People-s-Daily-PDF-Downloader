@@ -1,6 +1,6 @@
 CNINA-人民日报PDF下载器
 这款软件能下载2022年~2025年人民日报的报刊，下载质量为超高清，下载的报刊保持了报刊出版时的排版，具有收藏价值。对于喜欢阅读实际报刊排版的小伙伴可下载本软件使用。
-软件运行界面：
+<br>软件运行界面：
 <img width="1198" height="896" alt="image" src="https://github.com/user-attachments/assets/c0f82b3b-5b31-47e4-a390-e287522743d0" />
 下载后的实际效果：
 <img width="2708" height="1738" alt="image" src="https://github.com/user-attachments/assets/bd10c756-7d25-4d6e-91db-c8a92b4031c8" />
